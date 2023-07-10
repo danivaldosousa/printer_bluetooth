@@ -1,8 +1,33 @@
-# print_bluetooth
+<h1  align="center"> Print Bluetooth
+<br>
+<a  href="https://flutter.dev/">🔗 Flutter </a>
+</h1>
+<hr>
+## The Application Layout
 
-A new Flutter project.
+A Project that performs printing on 58 mm and 80 mm Bluetooth Mini printers.
 
-## Getting Started
+<br>
+
+<![alt](/assets/printer_bluetooth.png)>
+
+## The application running
+
+<![alt](/assets/printer_bluetooth.gif)>
+
+### Tecnologias
+
+- [ ] Flutter \*
+- [ ] Dart \*
+- [ ] print_bluetooth_thermal: ^1.0.9 \*
+- [ ] esc_pos_utils_plus: ^2.0.2
+
+### Autor
+
+<p> **Danivaldo Sousa** </p>
+
+<img  src="https://img.shields.io/static/v1?label=Blog&message=DanivaldoSousa&color=7159c1&style=for-the-badge&logo=ghost"/>
+
 
 This project is a starting point for a Flutter application.
 
