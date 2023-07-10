@@ -1,0 +1,24 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="app.web.groons.print_bluetooth_thermal" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="16"
+6-->C:\Users\drsousa4\AppData\Local\Pub\Cache\hosted\pub.dev\print_bluetooth_thermal-1.0.9\android\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="16" />
+7-->C:\Users\drsousa4\AppData\Local\Pub\Cache\hosted\pub.dev\print_bluetooth_thermal-1.0.9\android\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.BLUETOOTH" />
+9-->C:\Users\drsousa4\AppData\Local\Pub\Cache\hosted\pub.dev\print_bluetooth_thermal-1.0.9\android\src\main\AndroidManifest.xml:4:5-68
+9-->C:\Users\drsousa4\AppData\Local\Pub\Cache\hosted\pub.dev\print_bluetooth_thermal-1.0.9\android\src\main\AndroidManifest.xml:4:22-65
+10    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+10-->C:\Users\drsousa4\AppData\Local\Pub\Cache\hosted\pub.dev\print_bluetooth_thermal-1.0.9\android\src\main\AndroidManifest.xml:5:5-74
+10-->C:\Users\drsousa4\AppData\Local\Pub\Cache\hosted\pub.dev\print_bluetooth_thermal-1.0.9\android\src\main\AndroidManifest.xml:5:22-71
+11    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+11-->C:\Users\drsousa4\AppData\Local\Pub\Cache\hosted\pub.dev\print_bluetooth_thermal-1.0.9\android\src\main\AndroidManifest.xml:6:5-76
+11-->C:\Users\drsousa4\AppData\Local\Pub\Cache\hosted\pub.dev\print_bluetooth_thermal-1.0.9\android\src\main\AndroidManifest.xml:6:22-73
+12    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+12-->C:\Users\drsousa4\AppData\Local\Pub\Cache\hosted\pub.dev\print_bluetooth_thermal-1.0.9\android\src\main\AndroidManifest.xml:7:5-73
+12-->C:\Users\drsousa4\AppData\Local\Pub\Cache\hosted\pub.dev\print_bluetooth_thermal-1.0.9\android\src\main\AndroidManifest.xml:7:22-70
+13
+14</manifest>

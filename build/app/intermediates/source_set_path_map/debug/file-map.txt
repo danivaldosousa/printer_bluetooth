@@ -1,0 +1,18 @@
+br.com.toqx.print_bluetooth.app-jetified-window-1.0.0-beta04-0 C:\Users\drsousa4\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+br.com.toqx.print_bluetooth.app-jetified-savedstate-1.1.0-1 C:\Users\drsousa4\.gradle\caches\transforms-3\5210929c6bf1b640a57ff02b8ff864f4\transformed\jetified-savedstate-1.1.0\res
+br.com.toqx.print_bluetooth.app-core-1.7.0-2 C:\Users\drsousa4\.gradle\caches\transforms-3\57d13c65eae90a7945dea98c1aa2b720\transformed\core-1.7.0\res
+br.com.toqx.print_bluetooth.app-jetified-annotation-experimental-1.1.0-3 C:\Users\drsousa4\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+br.com.toqx.print_bluetooth.app-lifecycle-runtime-2.3.1-4 C:\Users\drsousa4\.gradle\caches\transforms-3\9a249567dcb8025899915ed9a2426636\transformed\lifecycle-runtime-2.3.1\res
+br.com.toqx.print_bluetooth.app-jetified-activity-1.4.0-5 C:\Users\drsousa4\.gradle\caches\transforms-3\a8cf6616998c19a087db75c25c840b7a\transformed\jetified-activity-1.4.0\res
+br.com.toqx.print_bluetooth.app-jetified-window-java-1.0.0-beta04-6 C:\Users\drsousa4\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+br.com.toqx.print_bluetooth.app-lifecycle-viewmodel-2.3.1-7 C:\Users\drsousa4\.gradle\caches\transforms-3\d486eee418567504419697de2b3eb487\transformed\lifecycle-viewmodel-2.3.1\res
+br.com.toqx.print_bluetooth.app-jetified-activity-ktx-1.4.0-8 C:\Users\drsousa4\.gradle\caches\transforms-3\e2a395da1e1e52d254888fa5c326965d\transformed\jetified-activity-ktx-1.4.0\res
+br.com.toqx.print_bluetooth.app-debug-9 C:\workspace\fluuter projetos\impressao\print_bluetooth\android\app\src\debug\res
+br.com.toqx.print_bluetooth.app-main-10 C:\workspace\fluuter projetos\impressao\print_bluetooth\android\app\src\main\res
+br.com.toqx.print_bluetooth.app-pngs-11 C:\workspace\fluuter projetos\impressao\print_bluetooth\build\app\generated\res\pngs\debug
+br.com.toqx.print_bluetooth.app-resValues-12 C:\workspace\fluuter projetos\impressao\print_bluetooth\build\app\generated\res\resValues\debug
+br.com.toqx.print_bluetooth.app-rs-13 C:\workspace\fluuter projetos\impressao\print_bluetooth\build\app\generated\res\rs\debug
+br.com.toqx.print_bluetooth.app-mergeDebugResources-14 C:\workspace\fluuter projetos\impressao\print_bluetooth\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+br.com.toqx.print_bluetooth.app-mergeDebugResources-15 C:\workspace\fluuter projetos\impressao\print_bluetooth\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+br.com.toqx.print_bluetooth.app-merged_res-16 C:\workspace\fluuter projetos\impressao\print_bluetooth\build\app\intermediates\merged_res\debug
+br.com.toqx.print_bluetooth.app-packaged_res-17 C:\workspace\fluuter projetos\impressao\print_bluetooth\build\print_bluetooth_thermal\intermediates\packaged_res\debug
